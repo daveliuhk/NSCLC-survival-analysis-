@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 import pandas as pd
 import matplotlib.pyplot as plt
 from lifelines import KaplanMeierFitter
